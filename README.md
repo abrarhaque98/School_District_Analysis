@@ -4,6 +4,8 @@
 
 This project was to clean standardized test data and student school funding data then analyze it to allow insights to be drawn from the showcasing of trends amongst the school data. Two list's in csv format were provided with school data and student exam data. The data was cleaned and sorted into one larger data frame which led to further related charts.
 
+The data was sorted and analyzed using a python 3.7 environment on jupyter notebook as well as using pandas.
+
 * The first chart provided the general district summary
 
 * The second chart provided Data for each school amongst all their grades 
